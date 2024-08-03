@@ -12,7 +12,7 @@ A simple Todo List react app for beginners
 ## How to use
 1. Clone the repo
 ``` bash
-git clone https://your-repo-url.git
+git clone https://github.com/GousDev/Todo-List-React.git
 ```
 
 2. Install dependencies
